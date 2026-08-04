@@ -64,4 +64,4 @@ Then open `notebooks/Elsanty2703.ipynb` and run **Kernel → Restart & Run All**
 
 ## 👤 Author
 
-Santiago — GCI World 2026 participant
+Santiago Gamboa — GCI World 2026 participant
